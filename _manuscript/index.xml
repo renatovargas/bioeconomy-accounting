@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving
+and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
+
+<front>
+
+
+<article-meta>
+
+
+<title-group>
+<article-title>Bioeconomy Accounting Methods and Applications for Latin
+America</article-title>
+</title-group>
+
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name>
+<surname>Vargas</surname>
+<given-names>Renato</given-names>
+</name>
+<string-name>Renato Vargas</string-name>
+
+<email>renovargas@gmail.com</email>
+<role vocab="https://credit.niso.org" vocab-term="writing – original
+draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
+<xref ref-type="aff" rid="chw">a</xref>
+<xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Mondaini</surname>
+<given-names>Andrés</given-names>
+</name>
+<string-name>Andrés Mondaini</string-name>
+
+<email>andres.mondaini@cepal.org</email>
+<xref ref-type="aff" rid="eclac">b</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Rodríguez</surname>
+<given-names>Adrián</given-names>
+</name>
+<string-name>Adrián Rodríguez</string-name>
+
+<email>adrian.rodriguez@cepal.org</email>
+<xref ref-type="aff" rid="eclac">b</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Alvarado</surname>
+<given-names>Irene</given-names>
+</name>
+<string-name>Irene Alvarado</string-name>
+
+<email>ALVARADOQI@bccr.fi.cr</email>
+<xref ref-type="aff" rid="bccr">c</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Rodríguez</surname>
+<given-names>Mónica</given-names>
+</name>
+<string-name>Mónica Rodríguez</string-name>
+
+<email>RODRIGUEZZM@bccr.fi.cr</email>
+<xref ref-type="aff" rid="bccr">c</xref>
+</contrib>
+</contrib-group>
+<aff id="chw">
+<institution-wrap>
+<institution>CHW, S.A.</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="eclac">
+<institution-wrap>
+<institution>Economic Commission for Latin America and The
+Caribbean</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="bccr">
+<institution-wrap>
+<institution>Banco Central de Costa Rica</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-1">renovargas@gmail.com</corresp>
+</author-notes>
+
+
+
+
+
+
+
+
+
+<history></history>
+
+
+<abstract>
+<p>This paper describes a practical methodology to estimate bioeconomy
+macroeconomic accounts, based on an extension of the System of National
+Accounts (SNA), particularly, a reordering of classifications within the
+Supply and Use tables of this system. In contrast to similar studies, we
+suggest that an <italic>a priori</italic> classification of economic
+activities as bioeconomic underestimates the real contribution of the
+bioeconomy. Instead we suggest limiting to classifying products as
+bioeconomic or not and then evaluating the bioeconomic content of
+intermediate consumption. We provide a detailed example of these ideas
+for Costa Rica and estimates for 13 Latin Ammerican economies.</p>
+</abstract>
+
+
+
+
+</article-meta>
+
+</front>
+
+<body>
+<sec id="section">
+  <title>Section</title>
+  <p>This is a simple placeholder for the manuscript’s main document
+  (<xref alt="Knuth 1984" rid="ref-knuth84" ref-type="bibr">Knuth
+  1984</xref>).</p>
+  <preformat>[1] 2</preformat>
+</sec>
+</body>
+
+<back>
+<ref-list>
+  <title></title>
+  <ref id="ref-knuth84">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Knuth</surname><given-names>Donald E.</given-names></name>
+      </person-group>
+      <article-title>Literate programming</article-title>
+      <source>Comput. J.</source>
+      <publisher-name>Oxford University Press, Inc.</publisher-name>
+      <publisher-loc>USA</publisher-loc>
+      <year iso-8601-date="1984-05">1984</year><month>05</month>
+      <volume>27</volume>
+      <issue>2</issue>
+      <issn>0010-4620</issn>
+      <uri>https://doi.org/10.1093/comjnl/27.2.97</uri>
+      <pub-id pub-id-type="doi">10.1093/comjnl/27.2.97</pub-id>
+      <fpage>97</fpage>
+      <lpage>111</lpage>
+    </element-citation>
+  </ref>
+</ref-list>
+</back>
+
+<sub-article article-type="notebook" id="nb-4-nb-article">
+<front-stub>
+<title-group>
+<article-title>Bioeconomy Accounting Methods and Applications for Latin
+America</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name>
+<surname>Vargas</surname>
+<given-names>Renato</given-names>
+</name>
+<string-name>Renato Vargas</string-name>
+
+<email>renovargas@gmail.com</email>
+<role vocab="https://credit.niso.org" vocab-term="writing – original
+draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
+<xref ref-type="aff" rid="chw-nb-article">a</xref>
+<xref ref-type="corresp" rid="cor-1-nb-article">&#x002A;</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Mondaini</surname>
+<given-names>Andrés</given-names>
+</name>
+<string-name>Andrés Mondaini</string-name>
+
+<email>andres.mondaini@cepal.org</email>
+<xref ref-type="aff" rid="eclac-nb-article">b</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Rodríguez</surname>
+<given-names>Adrián</given-names>
+</name>
+<string-name>Adrián Rodríguez</string-name>
+
+<email>adrian.rodriguez@cepal.org</email>
+<xref ref-type="aff" rid="eclac-nb-article">b</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Alvarado</surname>
+<given-names>Irene</given-names>
+</name>
+<string-name>Irene Alvarado</string-name>
+
+<email>ALVARADOQI@bccr.fi.cr</email>
+<xref ref-type="aff" rid="bccr-nb-article">c</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Rodríguez</surname>
+<given-names>Mónica</given-names>
+</name>
+<string-name>Mónica Rodríguez</string-name>
+
+<email>RODRIGUEZZM@bccr.fi.cr</email>
+<xref ref-type="aff" rid="bccr-nb-article">c</xref>
+</contrib>
+</contrib-group>
+<aff id="chw-nb-article">
+<institution-wrap>
+<institution>CHW, S.A.</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="eclac-nb-article">
+<institution-wrap>
+<institution>Economic Commission for Latin America and The
+Caribbean</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="bccr-nb-article">
+<institution-wrap>
+<institution>Banco Central de Costa Rica</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-1-nb-article">renovargas@gmail.com</corresp>
+</author-notes>
+<abstract>
+<p>This paper describes a practical methodology to estimate bioeconomy
+macroeconomic accounts, based on an extension of the System of National
+Accounts (SNA), particularly, a reordering of classifications within the
+Supply and Use tables of this system. In contrast to similar studies, we
+suggest that an <italic>a priori</italic> classification of economic
+activities as bioeconomic underestimates the real contribution of the
+bioeconomy. Instead we suggest limiting to classifying products as
+bioeconomic or not and then evaluating the bioeconomic content of
+intermediate consumption. We provide a detailed example of these ideas
+for Costa Rica and estimates for 13 Latin Ammerican economies.</p>
+</abstract>
+</front-stub>
+
+<body>
+<sec id="section-nb-article">
+  <title>Section</title>
+  <p>This is a simple placeholder for the manuscript’s main document
+  (<xref alt="Knuth 1984" rid="ref-knuth84-nb-article" ref-type="bibr">Knuth
+  1984</xref>).</p>
+  <sec id="nb-code-cell-1-nb-article" specific-use="notebook-code">
+  <code language="r script">1 + 1</code>
+  <sec id="nb-code-cell-1-output-0-nb-article" specific-use="notebook-output">
+  <preformat>[1] 2</preformat>
+  </sec>
+  </sec>
+</sec>
+</body>
+
+
+
+<back>
+<ref-list>
+  <title></title>
+  <ref id="ref-knuth84-nb-article">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Knuth</surname><given-names>Donald E.</given-names></name>
+      </person-group>
+      <article-title>Literate programming</article-title>
+      <source>Comput. J.</source>
+      <publisher-name>Oxford University Press, Inc.</publisher-name>
+      <publisher-loc>USA</publisher-loc>
+      <year iso-8601-date="1984-05">1984</year><month>05</month>
+      <volume>27</volume>
+      <issue>2</issue>
+      <issn>0010-4620</issn>
+      <uri>https://doi.org/10.1093/comjnl/27.2.97</uri>
+      <pub-id pub-id-type="doi">10.1093/comjnl/27.2.97</pub-id>
+      <fpage>97</fpage>
+      <lpage>111</lpage>
+    </element-citation>
+  </ref>
+</ref-list>
+</back>
+
+
+</sub-article>
+
+</article>

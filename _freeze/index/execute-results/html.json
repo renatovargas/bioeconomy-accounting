@@ -1,0 +1,15 @@
+{
+  "hash": "3d837ad1239a7935f5ef478a48e3ccbd",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Bioeconomy Accounting Methods and Applications for Latin America\nauthors:\n  - name: Renato Vargas\n    affiliation:\n      - ref: chw\n    email: renovargas@gmail.com\n    roles: writing\n    corresponding: true\n  - name: Adrián Rodríguez\n    email: adrian.rodriguez@cepal.org\n    affiliation: \n      - ref: eclac\n  - name: Andrés Mondaini\n    affiliation: \n      - ref: eclac\n    email: andres.mondaini@cepal.org\naffiliations:\n  - id: chw\n    name: CHW, S.A.\n  - id: eclac\n    name: Economic Commission for \n          Latin America and The Caribbean\nabstract: |\n  This paper describes a practical methodology to estimate \n  bioeconomy macroeconomic accounts, based on an extension \n  of the System of National Accounts (SNA), particularly,\n  a reordering of classifications within the Supply and Use \n  tables of this system. In contrast to similar studies, we\n  propose not to classify economic activities as belonging \n  to the bioeconomy or not _a priori_.\n  \nbibliography: references.bib\n---\n\n\n## Section\n\nThis is a simple placeholder for the manuscript's main document [@knuth84].\n\n\n::: {.cell}\n\n```{.r .cell-code .hidden}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
