@@ -17,5 +17,5 @@ format:
 execute:
   freeze: true
 
-editor: visual
+editor: source
 
