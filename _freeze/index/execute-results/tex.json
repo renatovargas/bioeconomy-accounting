@@ -1,0 +1,17 @@
+{
+  "hash": "700b1adb4061eff79080fbedaa7b503d",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Bioeconomy Accounting: Methods and Pilot Application to 13 Latin American Economies\"\nauthors:\n  - name: Renato Vargas\n    affiliation:\n      - ref: chw\n    email: renovargas@gmail.com\n    roles: writing\n    corresponding: true\n  - name: Andrés Mondaini\n    affiliation: \n      - ref: eclac\n    email: andres.mondaini@cepal.org\n  - name: Adrián Rodríguez\n    email: adrian.rodriguez@cepal.org\n    affiliation: \n      - ref: eclac\n  - name: Irene Alvarado\n    email: ALVARADOQI@bccr.fi.cr\n    affiliation: \n      - ref: bccr\n  - name: Mónica Rodríguez\n    email: RODRIGUEZZM@bccr.fi.cr\n    affiliation: \n      - ref: bccr\n  # - name: Luis Fernando Sánchez\n  #   email: SANCHEZSL@bccr.fi.cr\n  #   affiliation: \n  #     - ref: bccr\naffiliations:\n  - id: chw\n    name: CHW, S.A.\n  - id: eclac\n    name: Economic Commission for \n          Latin America and The Caribbean\n  - id: bccr\n    name: Banco Central de Costa Rica\nabstract: |\n  This paper describes a practical methodology to estimate \n  bioeconomy macroeconomic accounts, based on an extension \n  of the System of National Accounts (SNA), particularly,\n  a reaggregation of classifications within the Supply and Use \n  tables of this system. In contrast to similar studies, we\n  suggest that an _a priori_ classification of economic \n  activities as bioeconomic underestimates the real \n  contribution of the bioeconomy. Instead we suggest \n  to focus on classifying products as bioeconomic or not \n  and then evaluating the bioeconomic content of \n  intermediate consumption for all economic activities. \n  We provide a detailed example of these ideas for Costa Rica \n  and estimates for 13 Latin American economies.\n  \nbibliography: references.bib\n---\n\n\n\n\n\n## Section\n\nThis is a simple placeholder for the manuscript's main document [@knuth84].\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code .hidden}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}
