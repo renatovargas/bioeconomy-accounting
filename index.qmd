@@ -53,10 +53,18 @@ abstract: |
 bibliography: references.bib
 ---
 
-## Section
+## Introduction
 
-This is a simple placeholder for the manuscript's main document [@knuth84].
+ 
 
-```{r}
-1 + 1
-```
+## Methods
+
+To uncover the contribution of biological inputs to the Economy, we propose a deviation from the existing efforts in the field; henceforth, "the traditional approach". These first exercises have deemed certain economic activities as "bioeconomic," based on their primary production, and they have added together, either all, or a fraction of their Value Added (VA) as a proxy for the "Bioeconomic GDP". This has been a necessary compromise, because "biological" is a quality of  products, but VA and GDP are aggregates that are estimated at the economic activity level, not from the product perspective. While these first approximations have provided valuable estimates of the size of the Bioeconomy, they are not without problems.
+
+Within the production account of the System of National Accounts, often summarized into Supply and Use Tables (SUTs), economic activities can produce more than one product and, in turn, any product in the Economy can be produced by more than one activity. Activities will normally have a larger fraction of their output devoted to a group of products that share characteristics, which is deemed their primary production, and it will be used to determine the corresponding economic activity classification name. For example, all the production of companies that grow strawberries, cranberries, and blackberries, almonds, cashew nuts, and chestnuts, will be recorded under sector "0125 - Growing of other tree and bush fruits and nuts" of the International Standard Industry Classification (ISIC), Revision 4, at four digits. Some activities will also have a smaller fraction of their production that corresponds to the primary production of another sector. For example, it could be common in a certain region for some berries farms to directly sell small batches of fermented drinks that, which would normally be classified as primary production of another activity: "1102 - Manufacture of wines", but that probably do not go through a formal industrial process. 
+
+## Data
+
+## Results
+
+## Discussion
