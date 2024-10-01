@@ -15,14 +15,15 @@ authors:
     email: adrian.rodriguez@cepal.org
     affiliation: 
       - ref: eclac
-  - name: Irene Alvarado
-    email: ALVARADOQI@bccr.fi.cr
-    affiliation: 
-      - ref: bccr
   - name: Mónica Rodríguez
     email: RODRIGUEZZM@bccr.fi.cr
     affiliation: 
       - ref: bccr
+  - name: Irene Alvarado
+    email: ALVARADOQI@bccr.fi.cr
+    affiliation: 
+      - ref: bccr
+  
   # - name: Luis Fernando Sánchez
   #   email: SANCHEZSL@bccr.fi.cr
   #   affiliation: 
@@ -36,35 +37,56 @@ affiliations:
   - id: bccr
     name: Banco Central de Costa Rica
 abstract: |
-  This paper describes a practical methodology to estimate 
-  bioeconomy macroeconomic accounts, based on an extension 
-  of the System of National Accounts (SNA), particularly,
-  a reaggregation of classifications within the Supply and Use 
-  tables of this system. In contrast to similar studies, we
-  suggest that an _a priori_ classification of economic 
-  activities as bioeconomic underestimates the real 
-  contribution of the bioeconomy. Instead we suggest 
-  to focus on classifying products as bioeconomic or not 
-  and then evaluating the bioeconomic content of 
-  intermediate consumption for all economic activities. 
-  We provide a detailed example of these ideas for Costa Rica 
-  and estimates for 13 Latin American economies.
+  We propose a practical methodology to estimate Bioeconomic Satellite 
+  Accounts following the rules outlined in the System of National Accounts 
+  for analytical extensions. 
+  This methodology reaggregates classifications 
+  within the Supply and Use tables of this system 
+  to assess the economic value of inputs and outputs driven by biological 
+  resources for all economic activities. 
+  In contrast to similar studies, we suggest that an _a priori_ 
+  classification of economic activities as either "bioeconomic" or 
+  "non-bioeconomic" underestimates value added by biological resources 
+  that fall outside the predetermined activities. 
+  Instead, we assess the economic contribution driven by biological 
+  resources for all activities and propose direct and indirect methods 
+  to rank them according to their importance for bioeconomic policy. 
+  We provide estimates for 13 Latin American economies.
   
 bibliography: references.bib
+csl: apa-6th-edition.csl
 ---
 
 ## Introduction
 
- 
+In 2018, the Costa Rican Government published that country's National Bioeconomy Strategy, following closely the agreed definition crafted in the context of the German Bioeconomy Council [@german_bioeconomy_council_global_2018], which states that the Bioeconomy is:
+
+> "The production, use, conservation, and regeneration of biological resources, including the knowledge, science, technology, and innovation related to these resources, to provide information, products, processes, and services to all economic sectors, with the goal of advancing toward a sustainable economy [@gobiernodecostarica2020]."
+
+Additionally, this strategy details what should be understood as "biological resources" within that framework, which includes **i)** biomass cultivated to produce food, fodder, fibers, and energy; **ii)** biomass from marine resources and that produced through aquaculture; **iii)** forest biomass, especially that cultivated for use in the forestry and paper industries, as well as that legally extracted from natural ecosystems; **iv)** residual biomass from the agricultural, fishing and aquaculture, forestry, and agro-industrial sectors; **v)** biomass that can be recovered from urban waste; **vi)** liquid waste from livestock and human activities; and **vii)** terrestrial and marine biodiversity, including the biodiversity of inland waters.
+
+Public policies informed by data have been shown to be more efficient in reaching their objectives and, while Costa Rica has a long tradition in the production of environmental accounts [@bccr_cuentas_2021] following the System of Environmental and Economic Accounts–SEEA–[@europeancommission2013], there was a gap in the assessment of the direct and indirect contribution of biological resources to the economy that policymakers needed to close.
+
+Given the richness of information regarding biological resources that is collected to assess the economic performance of the country, we saw an opportunity to close this gap by extending the System of National Accounts (SNA), the framework with which Gross Domestic Product (GDP) is measured, among many other indicators, to highlight the contribution of those resources. The SNA manual [@europeancommission2009, p. 523] provides clear guidelines on how to develop analytical extensions–specifically *Key Sector Accounts* and *Satellite Accounts*–and we chose to adhere to those guidelines to avoid deviations from SNA's concepts and accounting rules and mantain comparability with traditional economic indicators. In particular, we focused on reaggregating classifications of the Supply and Use Tables that detail the production account of the System.
+
+This strict adherence to the principles of SNA and the standarization procedure developed to handle Supply and Use data in the case of Costa Rica, allowed us to readily extend this exercise to 13 Latin American economies. This was possible because these economies have made their Supply and Use tables publicly available and this information has been centralized in a repository [@eclac2021]. Relying on the SNA principles, definitions, classifications, and accounting rules also gave us an opportunity to express results related to the Bioeconomy using concepts that are easily understood by policy-makers because of their widespread use in economic performance analysis.
 
 ## Methods
 
-To uncover the contribution of biological inputs to the Economy, we propose a deviation from the existing efforts in the field; henceforth, "the traditional approach". These first exercises have deemed certain economic activities as "bioeconomic," based on their primary production, and they have added together, either all, or a fraction of their Value Added (VA) as a proxy for the "Bioeconomic GDP". This has been a necessary compromise, because "biological" is a quality of  products, but VA and GDP are aggregates that are estimated at the economic activity level, not from the product perspective. While these first approximations have provided valuable estimates of the size of the Bioeconomy, they are not without problems.
+Supply and Use tables are multi-dimensional matrices that show in great detail the production and import of goods and services by economic activities in a country and how those are used, either in the production process itself as inputs, or are consumed by other agents in the economy or by the rest of the world. The detail of products is arranged according to
 
-Within the production account of the System of National Accounts, often summarized into Supply and Use Tables (SUTs), economic activities can produce more than one product and, in turn, any product in the Economy can be produced by more than one activity. Activities will normally have a larger fraction of their output devoted to a group of products that share characteristics, which is deemed their primary production, and it will be used to determine the corresponding economic activity classification name. For example, all the production of companies that grow strawberries, cranberries, and blackberries, almonds, cashew nuts, and chestnuts, will be recorded under sector "0125 - Growing of other tree and bush fruits and nuts" of the International Standard Industry Classification (ISIC), Revision 4, at four digits. Some activities will also have a smaller fraction of their production that corresponds to the primary production of another sector. For example, it could be common in a certain region for some berries farms to directly sell small batches of fermented drinks that, which would normally be classified as primary production of another activity: "1102 - Manufacture of wines", but that probably do not go through a formal industrial process. 
+Table 1 presents a summarized version of Costa Rica's supply table for the year 2018 as a reference. The rows show an aggregated version of six groups of goods and services offered in the economy, with the original, fully disaggregated table detailing a total of 184 products (BCCR, 2021a). The first dimension of the columns provides an aggregated adaptation of the economic transactions related to supply. The sequence of these transactions explains a flow where production at basic prices (i.e., the price at the farm gate, factory, or commercial establishment) is combined with imports free of insurance and freight costs to form the supply at basic prices. However, this is not the price paid by economic agents. To reach the market, taxes on products are added to the basic price supply, minus any subsidies received, followed by distribution margins (transportation and commercialization costs). This results in the total supply at purchaser's prices, found in the last column. These figures represent the total available for purchase by economic agents in the utilization phase.
+
+In the second dimension of the columns, the disaggregation of production shows economic activities grouped into three representative sectors: a primary agricultural and extractive sector, a manufacturing sector, and a sector encompassing all services. The disaggregated supply table for Costa Rica includes details on 144 industry groups, identifying the portion under foreign and domestic control, divided into market production, non-market production, and production for own final use (BCCR, 2021a). There is no one-to-one correspondence between rows and columns, meaning that each economic activity can produce one or more products from the rows, and each product can be produced by one or more economic activities. Typically, there is a primary product characteristic of each economic activity, as well as secondary production of any other goods in the economy.
+
+To uncover the contribution of biological inputs to the Economy, we propose a deviation from the existing efforts in the field; hereafter, "the traditional approach". These first exercises have deemed certain economic activities as "bioeconomic," based on their primary production, and they have added together, either all, or a fraction of their Value Added (VA) as a proxy for the "Bioeconomic GDP". This has been a necessary compromise, because "biological" is a quality of products, but VA and GDP are aggregates that are estimated at the economic activity or total economy level, not from the product perspective. While these first approximations have provided valuable estimates of the size of the Bioeconomy, they have limitations.
+
+Within the production account of the System of National Accounts, often summarized into Supply and Use Tables (SUTs), economic activities can produce more than one product and, in turn, any product in the Economy can be produced by more than one activity. Activities will normally have a larger fraction of their output devoted to a group of products that share characteristics, which is deemed their primary production, and it will be used to determine the corresponding economic activity classification name. For example, all the production of companies that grow strawberries, cranberries, and blackberries, almonds, cashew nuts, and chestnuts, will be recorded under sector "0125 - Growing of other tree and bush fruits and nuts" of the International Standard Industry Classification (ISIC), Revision 4, at four digits. Some activities will also have a smaller fraction of their production that corresponds to the primary production of another sector. For example, it could be common in a certain region for some berries farms to directly sell small batches of fermented drinks that, which would normally be classified as primary production of another activity: "1102 - Manufacture of wines", but that probably do not go through a formal industrial process.
 
 ## Data
 
 ## Results
 
 ## Discussion
+
+## References
