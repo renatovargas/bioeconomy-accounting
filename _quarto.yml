@@ -11,7 +11,7 @@ format:
     comments:
       hypothesis: true
   docx: default
-  pdf: default
+  # pdf: default
   
   # (other formats)
 
