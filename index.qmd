@@ -47,8 +47,9 @@ abstract: |
   Instead, we assess the economic contribution driven by biological 
   resources for all activities and propose direct and indirect methods 
   to rank them according to their importance for bioeconomic policy. 
-  We exemplify the methodology with the case of Guatemala and 
-  provide estimates for 13 economies of Latin America and The Caribbean.
+  We exemplify the methodology with the case of Guatemala and Costa Rica,
+  and we provide estimates for 13 economies of Latin America and 
+  The Caribbean.
   
 bibliography: references.bib
 csl: apa-6th-edition.csl
@@ -142,7 +143,16 @@ The flow of information from left to right in @tbl-gtm19-sup shows output (OP) a
 
 In absolute terms, non-bioeconomic products represent the largest source of tax revenue, but it is interesting to estimate the implicit tax rate for each type of product. This is done by dividing the taxes collected by the output value of each type of product. This reveals that the implicit tax rate for bioeconomic products is 4.8% of production (9.4 billion / (197.9 billion + 7.8 billion + 0.9 billion), 6.8% for extended bioeconomic products, and 3.2% for non-bioeconomic products. It is important to clarify that this estimated tax rate is not the result of an explicit fiscal policy decision targeting bioeconomic products, but rather the aggregate impact of all the different fiscal policy decisions that have been made in the country over time. Notably, the implicit tax rate is higher for bioeconomic and extended bioeconomic products compared to non-bioeconomic products.
 
-### Insights at the economic activity level
+@tbl-gtm19-use shows a condensed version of the Bioeconomy Use Table, describing all possible destinations---row by row---for the total availability of products shown in @tbl-gtm19-sup. The first seven columns show Intermediate Consumption, with the eighth column showing the subtotal for that transaction. Intermediate Consumption describes the purchase of inputs for production by economic activities. In 2019, this transaction amounted to a total of 369.7 billion GTQ, of which 24.0% corresponded to the purchase of bioeconomic products, 13.5% to the purchase of extended bioeconomic products, and 62.6% to the purchase of non-bioeconomic products. Exports amounted to 95.3 billion GTQ (net of CIF/FOB adjustments), with 46.4% corresponding to bioeconomic products, 16.7% to extended bioeconomic products, and 36.9% to non-bioeconomic products. This is understandable for a country where a significant portion of exports consists of agricultural products. Finally, out of 578.3 billion GTQ corresponding to final consumption (net of insurance and freight costs), 32.8% accounted for bioeconomic products, 15.0% for extended bioeconomic products, and 52.2% for non-bioeconomic products.
+
+Bioeconomic SUTs include detailed information on hundreds of products and economic activities. Policy analysis can benefit from this level of disaggregation when conducting sectoral analyses. @tbl-cr18-pharma shows an example of such a detailed view of the Bioeconomy within individual economic activities for the case of Costa Rica. @tbl-cr18-pharma shows that 34.6 percent of the inputs of this economic activity by value depend on 24 bioeconomic products. An additional 17.5% of its Intermediate Consumption is catalogued as belonging to the extended bioeconomy, while a 47.9 percent are accounted for by non-bioeconomic products.
+
+::: {#tbl-cr18-pharma}
+![](images/clipboard-1645551723.png)
+
+Costa Rica: Pharmaceutical Sector Bioeconomy Intermediate Consumption\
+(Million CRC at current prices and percent, 2018)
+:::
 
 ### Comparative analysis for 13 economies of Latin America and The Caribbean
 
