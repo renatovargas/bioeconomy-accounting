@@ -23,6 +23,10 @@ authors:
     email: ALVARADOQI@bccr.fi.cr
     affiliation: 
       - ref: bccr
+  - name: Paul Wander
+    affiliation: 
+      - ref: eclac
+    email: paul.wander@cepal.org
 
 affiliations:
   - id: chw
@@ -61,7 +65,7 @@ editor_options:
 
 ## Introduction
 
-In 2018, the Costa Rican Government published that country's National Bioeconomy Strategy, following an internationally agreed definition crafted in the context of the German Bioeconomy Council [@german_bioeconomy_council_global_2018], which states that the Bioeconomy is:
+In 2018, the Costa Rican Government published that country's National Bioeconomy Strategy, following an internationally agreed definition crafted in the context of the German Bioeconomy Council [@@germanbioeconomycouncil2018], which states that the Bioeconomy is:
 
 > "The production, use, conservation, and regeneration of biological resources, including the knowledge, science, technology, and innovation related to these resources, to provide information, products, processes, and services to all economic sectors, with the goal of advancing toward a sustainable economy [@gobiernodecostarica2020]."
 
@@ -69,7 +73,7 @@ Additionally, this strategy defines "biological resources" within the framework 
 
 Public policies informed by data have been shown to be more efficient in reaching their objectives and, while Costa Rica has a long tradition in the production of environmental accounts [@bccr_cuentas_2021] following the System of Environmental and Economic Accounts---SEEA---[@europeancommission2013], their Environmental Accounts Council identified a gap in the assessment of the direct and indirect contribution of biological resources to the economy that policymakers needed to close.
 
-Given the richness of information regarding biological resources that is collected to assess the economic performance of the country, we were granted the opportunity to close this gap by extending the System of National Accounts (SNA), the framework with which Gross Domestic Product (GDP) is measured, among many other indicators, to highlight the contribution of those resources through Bioeconomy Sataellite Accounting (BSA) for Costa Rica [@vargas2022a]. The SNA manual [@europeancommission2009, p. 523] provides clear guidelines on how to develop analytical extensions---specifically *Key Sector Accounts* and *Satellite Accounts*---and we chose to adhere to those guidelines to avoid deviations from SNA's concepts and accounting rules and mantain comparability with traditional economic indicators. In particular, we focused on reaggregating classifications of the Supply and Use Tables (SUTs) that provide detail for what is known as the production account within SNA.
+Given the richness of information regarding biological resources that is collected to assess the economic performance of the country, we were granted the opportunity to close this gap by extending the System of National Accounts (SNA), the framework with which Gross Domestic Product (GDP) is measured, among many other indicators, to highlight the contribution of those resources through Bioeconomy Sataellite Accounting (BSA) for Costa Rica [@vargas2022]. The SNA manual [@europeancommission2009, p. 523] provides clear guidelines on how to develop analytical extensions---specifically *Key Sector Accounts* and *Satellite Accounts*---and we chose to adhere to those guidelines to avoid deviations from SNA's concepts and accounting rules and mantain comparability with traditional economic indicators. In particular, we focused on reaggregating classifications of the Supply and Use Tables (SUTs) that provide detail for what is known as the production account within SNA.
 
 This strict adherence to the principles of SNA and the standarization procedure developed to handle SUT data in the case of Costa Rica, allowed us to readily extend this exercise to 13 Latin American economies. This was possible because these economies have made their Supply and Use tables publicly available and this information has been centralized in a repository [@eclac2021]. Relying on the SNA principles, definitions, classifications, and accounting rules also gave us an opportunity to express results related to the Bioeconomy using concepts that are easily understood by policy-makers because of their widespread use in economic performance communications and analysis.
 
@@ -77,7 +81,7 @@ This strict adherence to the principles of SNA and the standarization procedure 
 
 ### Supply and Use Tables as data sources
 
-The main source of information for BSAs are SUTs from SNA [@europeancommission2009a], which are multi-dimensional matrices that show in great detail the production and import of goods and services by economic activities in a country and how those are used, either in the production process itself as inputs, by other agents in the economy, or by the rest of the world. The different areas of these tables describe a flow of transactions in the economy. All transactions (columns) show detailed information for all products (rows) identified in a given economy. The production transaction in the Supply Table and the intermediate consumption transaction in the Use Table are further disaggregated by economic activities (columns). The detail of products is arranged according to national adaptations of the Central Product Classification---CPC---[@unitednations2015] and economic activities are arranged according to the International Standard Industrial Classification of All Economic Activities---ISIC---[@unitednations2008].
+The main source of information for BSAs are SUTs from SNA [@europeancommission2009], which are multi-dimensional matrices that show in great detail the production and import of goods and services by economic activities in a country and how those are used, either in the production process itself as inputs, by other agents in the economy, or by the rest of the world. The different areas of these tables describe a flow of transactions in the economy. All transactions (columns) show detailed information for all products (rows) identified in a given economy. The production transaction in the Supply Table and the intermediate consumption transaction in the Use Table are further disaggregated by economic activities (columns). The detail of products is arranged according to national adaptations of the Central Product Classification---CPC---[@unitednations2015] and economic activities are arranged according to the International Standard Industrial Classification of All Economic Activities---ISIC---[@unitednations2008].
 
 In the case of the Supply Table, the sequence of those transactions (columns) describes a flow where different products (rows) are produced by economic activities at basic prices (i.e., the price at the farm gate, factory, or commercial establishment). This output is then combined with imports free of insurance and freight costs to form the supply at basic prices. However, this is not the price paid by economic agents. In its way to market, taxes on products are added to the basic price supply, minus any subsidies received, followed by distribution margins (transportation and trade costs). This results in the total supply at purchaser's or market prices, found in the last column of the table, which represents what is available for purchase by the same economic agents in the use table. For these additional columns of transactions, the product detail (rows) is mantained, but not the economic activity detail.
 
