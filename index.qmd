@@ -157,7 +157,7 @@ If we were to abide by the *a priori* selection of Bioeconomic sectors, these wo
 
 ### Disaggregation by Economic Activity
 
-For a more detailed view of the Bioeconomy, we turn our attention to the example of Costa Rica. Bioeconomic SUTs include detailed information on hundreds of products and economic activities. Policy analysis can benefit from this level of disaggregation when conducting sectoral analyses. @tbl-cr18-pharma shows an example of such a detailed view of the Bioeconomy within individual economic activities for the case of the pharmaceutical sector of Costa Rica. @tbl-cr18-pharma shows that 34.6 percent of the inputs of this economic activity by value depend on 24 bioeconomic products. An additional 17.5% of its Intermediate Consumption is catalogued as belonging to the extended bioeconomy, while a 47.9 percent are accounted for by non-bioeconomic products.
+For a more detailed view of the Bioeconomy, we turn our attention to the example of Costa Rica. Bioeconomic SUTs include detailed information on hundreds of products and economic activities. Policy analysis can benefit from this level of disaggregation when conducting sectoral analyses. @tbl-cr18-pharma shows an example of such a detailed view of the Bioeconomy for the case of the pharmaceutical sector of Costa Rica. @tbl-cr18-pharma shows that 34.6% of the inputs of this economic activity by value depend on 24 bioeconomic products. An additional 17.5% of its Intermediate Consumption is catalogued as belonging to the extended bioeconomy, while 47.9 percent is accounted for by non-bioeconomic products.
 
 ::: {#tbl-cr18-pharma}
 ![](images/clipboard-1645551723.png)
