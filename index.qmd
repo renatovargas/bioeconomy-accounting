@@ -217,7 +217,9 @@ BSAs can be used to perform this type of exploration for sectors of interest in 
 
 ![Construction](images/clipboard-1429514424.png){#fig-construction}
 
-Sectoral Bioeconomy detail (percent)
+Bioeconomy, Extended Bioeconomy, and Non-Bioeconomy inputs for selected economic activities\ 
+(Costa Rica, percent, 2018)
+
 :::
 
 ### Comparative analysis for 13 economies of Latin America and The Caribbean
