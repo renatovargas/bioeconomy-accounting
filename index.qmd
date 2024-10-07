@@ -179,17 +179,6 @@ BSAs can be used to perform this type of exploration for sectors of interest in 
 Sectoral Bioeconomy detail (percent)
 :::
 
-See @fig-cri-sectoral for examples. In particular, @fig-meat-products.
-
-
-
-
-
-
-
-Construction of residential buildings
-
-Meat products
 
 ### Comparative analysis for 13 economies of Latin America and The Caribbean
 
