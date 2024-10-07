@@ -166,6 +166,31 @@ Costa Rica: Pharmaceutical Sector Bioeconomy Intermediate Consumption\
 (Million CRC at current prices and percent, 2018)
 :::
 
+BSAs can be used to perform this type of exploration for sectors of interest in the context of an economic policy. For example, we can see that biological resources are very important in the case of the processed foods industry, both for _Meat Products_ (@fig-meat-products) and _Milk and Dairy_ (@fig-dairy) where Bioeconomy products make up 81 and 76 percent of their intermediate consumption, respectively. In contrast, Bioeconomic products account for only 4 percent of the value of intermediate consumption in the _Residential Construction_ sector (@fig-construction). Given a policy that provides incentives for the use of innovative biological materials in construction, for example, policy-makers could focus on monitoring the increase or decrease of this share over time.  
+
+::: {#fig-cri-sectoral layout-ncol=3}
+
+![Meat products](images/clipboard-2928692590.png){#fig-meat-products}
+
+![Milk and Dairy](images/clipboard-2666308793.png){#fig-dairy}
+
+![Construction](images/clipboard-1429514424.png){#fig-construction}
+
+Sectoral Bioeconomy detail (percent)
+:::
+
+See @fig-cri-sectoral for examples. In particular, @fig-meat-products.
+
+
+
+
+
+
+
+Construction of residential buildings
+
+Meat products
+
 ### Comparative analysis for 13 economies of Latin America and The Caribbean
 
 ## Discussion
