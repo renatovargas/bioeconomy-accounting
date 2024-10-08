@@ -162,7 +162,7 @@ For a more detailed view of the Bioeconomy, we turn our attention to the example
 ::: {#tbl-cr18-pharma}
 | **Products** | **Value (CRC)** | **Percent** |
 |---------------------------------------------------|----------:|----------:|
-| **Bioeconomy** | **30,307.1** | **34.61%** |
+| **Bioeconomy (subtotal)** | **30,307.1** | **34.61%** |
 | Pharmaceutical and medicinal products | 18,845.6 | 21.52% |
 | Other food products n.e.c. | 4,011.2 | 4.58% |
 | Prepared animal feed | 2,624.9 | 3.00% |
@@ -196,7 +196,7 @@ For a more detailed view of the Bioeconomy, we turn our attention to the example
 | Drinking water | 45.2 | 0.05% |
 | Waste and scraps | 6.8 | 0.01% |
 | Footwear | 0.7 | 0.001% |
-| **Non-Bioeconomy** | **41,960.0** | **47.92%** |
+| **Non-Bioeconomy (subtotal)** | **41,960.0** | **47.92%** |
 | Remaining 68 Non-Bioeconomy products. | 41,960.0 | 47.92% |
 | **Total Use** | **87,565.5** | **100.00%** |
 
