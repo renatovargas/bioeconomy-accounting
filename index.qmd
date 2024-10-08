@@ -161,7 +161,7 @@ For a more detailed view of the Bioeconomy, we turn our attention to the example
 
 ::: {#tbl-cr18-pharma}
 | **Products** | **Value (CRC)** | **Percent** |
-|---------------------------------------------------|----------:|----------:|
+|-------------------------------------|-----------------:|-----------------:|
 | **Bioeconomy (subtotal)** | **30,307.1** | **34.61%** |
 | Pharmaceutical and medicinal products | 18,845.6 | 21.52% |
 | Other food products n.e.c. | 4,011.2 | 4.58% |
@@ -210,7 +210,6 @@ Source: Own elaboration based on Costa Rica's SUTs [@bccr_cuadro_2021].
 
 BSAs can be used to perform this type of exploration for sectors of interest in the context of an economic policy. For example, we can see that biological resources are very important in the case of the processed foods industry, both for *Meat Products* (@fig-meat-products) and *Milk and Dairy* (@fig-dairy) where Bioeconomy products make up 81 and 76 percent of their intermediate consumption, respectively. In contrast, Bioeconomic products account for only 4 percent of the value of intermediate consumption in the *Residential Construction* sector (@fig-construction). Given a policy that provides incentives for the use of innovative biological materials in construction, for example, policy-makers could focus on monitoring the increase or decrease of this share over time.
 
-
 ::: {#fig-cri-sectoral layout-ncol="3"}
 ![Meat products](images/clipboard-2928692590.png){#fig-meat-products}
 
@@ -218,12 +217,70 @@ BSAs can be used to perform this type of exploration for sectors of interest in 
 
 ![Construction](images/clipboard-1429514424.png){#fig-construction}
 
-Bioeconomy, Extended Bioeconomy, and Non-Bioeconomy inputs for selected economic activities\ 
-(Costa Rica, percent, 2018)
-
+Bioeconomy, Extended Bioeconomy, and Non-Bioeconomy inputs for selected economic activities  (Costa Rica, percent, 2018)
 :::
 
 ### Comparative analysis for 13 economies of Latin America and The Caribbean
+
+Following the same analytical approach used in @tbl-gtm19-sup for the case of Guatemala, the panels in @fig-latam-output provide a comparative analysis of the percentage contribution of the Bioeconomy to several SNA transactions for Argentina, Brazil, Chile, Colombia, Costa Rica, El Salvador, the Dominican Republic, Ecuador, Guatemala, Honduras, Nicaragua, Panama, and Peru. While the analysis for Guatemala was developed for the year 2019, the focus of this section is the year 2018, since it is the most recent year available for the majority of the countries, with the exception of the Dominican Republic and Panama, where 2016 and 2017 data, respectively, were used.
+
+@fig-latam-imports shows that, on average, 17.5% of gross output in the analyzed countries corresponds to bioeconomic products, 10.6% to extended bioeconomic products, and 71.9% to non-bioeconomic products. Nicaragua has the highest proportion of bioeconomic products, with about a third of its output (29.1%) falling into this category. This highlights a broader agricultural base in their economy. Panama, on the other hand, ranks the lowest, with 11.5% of bioeconomic products in its national production structure. However, its proportion of extended bioeconomic products reaches 9.9%, and when combined, these two categories account for one-fifth of its production based on biological resources.
+
+The importance of the bioeconomy in imports is illustrated in @fig-latam-imports, which shows that Costa Rica has the highest level of bioeconomic imports, representing 27.1% of its total imports. In contrast, Argentina and Brazil have the lowest levels, with 6.0% of their imports being bioeconomic products. It's worth examining the combined participation of bioeconomic and extended bioeconomic products in some cases, though caution is advised when interpreting extended bioeconomic products, as it is not always possible to determine the purely biological share due to the aggregation level of product classification in national accounts. For example, Honduras sits in the middle of the chart with 12.2% of its imports being bioeconomic, but 40.1% of its imports fall under extended bioeconomic products. Combined, half of its imports are based on biological resources (52.3%). On average, across all the countries analyzed, bioeconomic products represent 12.5% of imports, extended bioeconomic products 19.5%, and non-bioeconomic products 68.0%.
+
+Costa Rica is the country that derives the highest fiscal revenue from bioeconomic products, which account for 32.7% of taxes minus subsidies on products, as shown in @fig-latam-tax. At the other end of the spectrum, bioeconomic products in Panama are responsible for 13.9% of that revenue. It’s also worth comparing the combined total for bioeconomic and extended bioeconomic products. In that case, Panama reaches 37.4%, while Costa Rica, which has only 4.3% attributable to extended bioeconomic products, totals 37.0%. On average, across the analyzed countries, 24.5% of taxes come from bioeconomic products, 16.0% from extended bioeconomic products, and 59.5% from non-bioeconomic products.
+
+::: {#fig-latam-output layout-nrow="3"}
+![Gross Output](images/clipboard-641492741.png)
+
+![Imports](images/clipboard-4077757569.png){#fig-latam-imports}
+
+![Taxes less subsidies](images/clipboard-1372132090.png){#fig-latam-tax}
+
+Supply Table Transactions (13 Latin American Economies, percent, 2018)
+:::
+
+At this point, it’s helpful to revisit the concept of the implicit tax rate on bioeconomic products, as explained earlier for the case of Guatemala. @fig-latam-implicit-tax shows these rates, along with the implicit rates for extended bioeconomic products and non-bioeconomic products for the 13 countries analyzed, as well as the group average. These rates are calculated by dividing total tax revenue for a specific type of product by the total production of that same product type. As explained earlier, it's important to understand that these rates are not the result of a deliberate fiscal policy regarding the bioeconomy but simply the current net outcome across the three product types from various tax instruments implemented at different times for diverse purposes. Argentina has the highest tax rate on bioeconomic products, with an implicit rate of 17.8%, which is 2.4 times higher than the 7.3% rate on non-bioeconomic products. This disparity, which imposes significantly higher taxes on bioeconomic products compared to non-bioeconomic ones, is observed in at least 11 of the 13 countries analyzed (Argentina, Brazil, Chile, El Salvador, the Dominican Republic, Peru, Colombia, Costa Rica, Nicaragua, Guatemala, and Panama), as well as in the overall average, where bioeconomic products have an implicit tax rate of 8.2%, extended bioeconomic products 9.1%, and non-bioeconomic products 4.5%. The case of Honduras is interesting, where the trend is reversed, and bioeconomic products have a lower implicit rate (4.3%) than non-bioeconomic products (5.3%). A similar situation occurs in Ecuador (3.8% and 4.1%, respectively).
+
+::: {#fig-latam-implicit-tax}
+![](images/clipboard-1492103812.png)
+
+Implicit Tax Rate (13 Latin American Economies, percent, 2018)
+:::
+
+@fig-latam-use compares three use-side transactions across the analyzed countries. First, in @fig-latam-intermediate-consumption, bioeconomic products represent, on average, 18.6% of intermediate consumption, extended bioeconomic products 13.3%, and non-bioeconomic products 68.0%, across the 13 countries analyzed. Nicaragua is the country whose production relies most heavily on a bioeconomic base, with its intermediate consumption of these products reaching 26.5%, followed by Guatemala (24.0%) and Ecuador (23.0%) at the top of the chart. In contrast, Colombia (12.2%), Chile (12.2%), and Panama (12.0%) occupy the last three positions. Once again, it’s worth highlighting the case of Honduras, where the share of extended bioeconomic products (29.3%), combined with bioeconomic products (29.3%), means that more than half of the country’s intermediate consumption (51.9%) is linked to biological resources.
+
+In the case of exports, shown in @fig-latam-exports, Ecuador (47.0%), Argentina (45.8%), and Nicaragua (44.0%) are the three countries with the highest percentage of exports consisting of bioeconomic products, while Colombia (14.2%), the Dominican Republic (13.1%), and Panama (4.0%) have the lowest values. This is closely tied to the importance of agricultural products in the export structure of each country.
+
+Finally, the final consumption shown in @fig-latam-final-consumption, which includes household consumption, government consumption, and nonprofit institutions' consumption, plays a key role as a driver of the economy, directly and indirectly influencing production and import decisions in economic activities. In this case, Costa Rica has the highest proportion of its consumption attributed to bioeconomic products (36.4%), followed by Guatemala (31.7%) and Honduras (31.7%) at the top. Panama and Brazil (both at 18.9%), Colombia (18.5%), and Chile (18.2%) occupy the lowest positions.
+
+::: {#fig-latam-use layout-nrow="3"}
+![Intermediate Consumption](images/clipboard-2112192972.png){#fig-latam-intermediate-consumption}
+
+![Exports](images/clipboard-995186152.png){#fig-latam-exports}
+
+![Final Consumption](images/clipboard-1453266958.png){#fig-latam-final-consumption}
+
+Use Table Transactions (13 Latin American Economies, percent, 2018)
+:::
+
+If we consider that intermediate consumption is the input base for producing all the goods and services in the economy, the percentages shown for this transaction suggest that between 12.0% and 26.5% of the value added in the region’s countries is based on biological resources, with an average of 18.6%. This analysis can also be applied at a sectoral level, identifying the shares of intermediate consumption that correspond to the bioeconomy for each major sector group, as shown in @fig-latam-avg-sector-biocontent. This reveals that, for the years analyzed and on average for the countries, 44.3% of the value added in agriculture is generated based on the intermediate consumption of bioeconomic products. Following this, 34.8% of the value added in manufacturing industries is based on bioeconomic resources. Other services ranks third, with 11.2% of its intermediate consumption corresponding to bioeconomic products, supporting its value-added generation. In contrast, mining, utilities, construction, and trade have between 0.6% and 2.0% of their intermediate consumption made up of bioeconomic products, suggesting that these products play a less direct role in generating value added in these sectors.
+
+::: {#fig-latam-avg-sector-biocontent}
+![](images/clipboard-3829818055.png)
+
+Average bioeconomic content value in intermediate consumption by aggregated groups of economic activity (13 Latin American Economies, percent, 2018)
+:::
+
+Finally, we explore the contribution of the bioeconomy to GDP. To provide some context, the sum of the value added by economic activities, plus taxes net of subsidies, makes up the Gross Domestic Product (GDP). Value added is a measure calculated at the level of economic activities, not at the product level. For this reason, it is common for studies determining the contribution of the bioeconomy to the economy to classify economic activities as "bioeconomic" a priori and then simply add up their value added to determine their contribution to GDP. In fact, we have also replicated this approach in our own work. However, we have realized that, given that in the national accounts system, products can be produced by more than one activity and each activity can produce more than one product, choosing bioeconomic sectors a priori leads to excluding the contribution of products that we have identified as bioeconomic but are not produced or consumed by activities classified as bioeconomic. In most cases, this leads to an underestimation of the contribution of the bioeconomy.
+
+As we explained earlier, we suggest it is more useful to consider the bioeconomic status of activities as a spectrum, making them more or less dependent on bioeconomic products depending on the amount of bioeconomic inputs present in their intermediate consumption. @fig-latam-value-added-methods presents a comparative analysis of the percentage of the economy that can be attributed to the bioeconomy, depending on whether the value added is adjusted as a percentage of intermediate consumption, weighted by each sector's contribution to the total (via Intermediate Consumption in the table), or if the entire value added of sectors considered a priori to be bioeconomic or extended bioeconomic is taken (via sector catalog in the table). What is revealing is that in most cases, except for Chile, Ecuador, and Nicaragua, the estimation obtained by assigning sectors a priori underestimates the contribution of the bioeconomy to GDP by several percentage points.
+
+::: {#fig-latam-value-added-methods}
+![](images/clipboard-535496738.png)
+
+Comparison of Bioeconomy contribution to Value Added by method of adjustment (13 Latin American Economies, percent, 2018)
+:::
 
 ## Discussion
 
