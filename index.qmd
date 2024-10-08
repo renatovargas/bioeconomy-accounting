@@ -160,9 +160,9 @@ If we were to abide by the *a priori* selection of Bioeconomic sectors, these wo
 For a more detailed view of the Bioeconomy, we turn our attention to the example of Costa Rica. Bioeconomic SUTs include detailed information on hundreds of products and economic activities. Policy analysis can benefit from this level of disaggregation when conducting sectoral analyses. @tbl-cr18-pharma shows an example of such a detailed view of the Bioeconomy for the case of the pharmaceutical sector of Costa Rica. @tbl-cr18-pharma shows that 34.6% of the inputs of this economic activity by value depend on 24 bioeconomic products. An additional 17.5% of its Intermediate Consumption is catalogued as belonging to the extended bioeconomy, while 47.9 percent is accounted for by non-bioeconomic products.
 
 ::: {#tbl-cr18-pharma}
-| **Products** | **Value (GTQ)** | **Percent** |
+| **Products** | **Value (CRC)** | **Percent** |
 |---------------------------------------------------|----------:|----------:|
-| **Bioeconomy** |  |  |
+| **Bioeconomy** | **30,307.1** | **34.61%** |
 | Pharmaceutical and medicinal products | 18,845.6 | 21.52% |
 | Other food products n.e.c. | 4,011.2 | 4.58% |
 | Prepared animal feed | 2,624.9 | 3.00% |
@@ -186,7 +186,7 @@ For a more detailed view of the Bioeconomy, we turn our attention to the example
 | Eggs | 0.7 | 0.001% |
 | Dairy products | 0.1 | 0.0001% |
 | Other fruits, nuts, and other oil-bearing fruits | 0.1 | 0.0001% |
-| **Extended Bioeconomy** |  |  |
+| **Extended Bioeconomy (subtotal)** | **15,298.4** | **17.47%** |
 | Basic chemicals and fertilizers, nitrogen compounds, pesticides, and other agrochemical products | 14,232.3 | 16.25% |
 | Other manufactured products | 555.7 | 0.63% |
 | Textile products, except garments | 237.9 | 0.27% |
@@ -196,9 +196,9 @@ For a more detailed view of the Bioeconomy, we turn our attention to the example
 | Drinking water | 45.2 | 0.05% |
 | Waste and scraps | 6.8 | 0.01% |
 | Footwear | 0.7 | 0.001% |
-| **Non-Bioeconomy** |  |  |
+| **Non-Bioeconomy** | **41,960.0** | **47.92%** |
 | Remaining 68 Non-Bioeconomy products. | 41,960.0 | 47.92% |
-| **Total use** | 87,565.5 | 100% |
+| **Total Use** | **87,565.5** | **100.00%** |
 
 Costa Rica: Pharmaceutical Sector Bioeconomy Intermediate Consumption\
 (Million CRC at current prices and percent, 2018)
@@ -209,6 +209,7 @@ Source: Own elaboration based on Costa Rica's SUTs [@bccr_cuadro_2021].
 :::
 
 BSAs can be used to perform this type of exploration for sectors of interest in the context of an economic policy. For example, we can see that biological resources are very important in the case of the processed foods industry, both for *Meat Products* (@fig-meat-products) and *Milk and Dairy* (@fig-dairy) where Bioeconomy products make up 81 and 76 percent of their intermediate consumption, respectively. In contrast, Bioeconomic products account for only 4 percent of the value of intermediate consumption in the *Residential Construction* sector (@fig-construction). Given a policy that provides incentives for the use of innovative biological materials in construction, for example, policy-makers could focus on monitoring the increase or decrease of this share over time.
+
 
 ::: {#fig-cri-sectoral layout-ncol="3"}
 ![Meat products](images/clipboard-2928692590.png){#fig-meat-products}
