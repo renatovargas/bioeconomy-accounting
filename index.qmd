@@ -49,9 +49,9 @@ abstract: |
   "non-bioeconomic" underestimates value added by biological resources 
   that fall outside the predetermined activities. 
   Instead, we assess the economic contribution driven by biological 
-  resources for all activities and propose direct and indirect methods 
+  resources for all economic activities and propose direct and indirect methods 
   to rank them according to their importance for bioeconomic policy. 
-  We exemplify the methodology with the case of Guatemala and Costa Rica,
+  We exemplify the methodology with the cases of Guatemala and Costa Rica,
   and we provide estimates for 13 economies of Latin America and 
   The Caribbean.
   
@@ -62,6 +62,8 @@ editor_options:
   markdown:
     extensions: -smart
 ---
+
+
 
 ## Introduction
 
@@ -282,6 +284,17 @@ As we explained earlier, we suggest it is more useful to consider the bioeconomi
 Comparison of Bioeconomy contribution to Value Added by method of adjustment (13 Latin American Economies, percent, 2018)
 :::
 
-## Discussion
+## Closing arguments
 
-## References
+We have shown the results of applying a standardized methodology for constructing Bioeconomy Satellite Accounts to the Supply and Use Tables of the National Accounts Systems of 13 countries from Latin America and The Caribbean Argentina, Brazil, Chile, Colombia, Costa Rica, El Salvador, the Dominican Republic, Ecuador, Guatemala, Honduras, Nicaragua, Panama, and Peru.
+
+Among the key findings of this exercise, we find that, in the region, bioeconomic products account for 17.5% of production, 12.5% of imports, 24.5% of product-related taxes, 8.6% of intermediate consumption, 27.9% of exports, and 25% of household final consumption on average.
+
+A significant share of fiscal revenue from product taxes comes from bioeconomic products (ranging from 13.9% to 32.7% for the countries analyzed). By dividing tax revenue by product type and the gross production value of those goods, it is possible to estimate the implicit tax rate. It’s important to note that for most countries, this implicit rate is considerably higher for bioeconomic products than for non-bioeconomic ones. This disparity is not intentional but rather the combined result of different fiscal policy instruments created at various times for diverse purposes. In the context of developing public policies related to the Bioeconomy, it is crucial to explore this issue further in order to create incentive mechanisms that foster bioeconomic development while balancing public finance objectives.
+
+One limitation of the National Accounts data for studying the bioeconomy is related to the difficulty in quantifying bioeconomic gross capital formation through economic surveys and business financial statements. A significant portion of innovation in the Bioeconomy is related to intellectual property, and companies in the region still face challenges in tracking their intellectual assets and accurately accounting for them. Another challenge in quantifying bioeconomic Gross Capital Formation arises from the fact that some infrastructure projects may not be easily identified as bioeconomic, such as the construction of bioprocessing plants to reuse biological waste. These would typically appear under construction services and would be excluded by the methodology during the classification process. This indicates that there is still work to be done in developing national accounting standards to address these limitations.
+
+
+## Acknowledgments {.appendix}
+
+The methodology described here was originally developed for Costa Rica through a collaboration between the Central Bank of Costa Rica (BCCR) and the United Nations Economic Commission for Latin America and the Caribbean (ECLAC), at the request of Costa Rica’s National Council of Environmental Accounts. Financing was provided by the German Cooperation (_Deutsche Gesellschaft für Internationale Zusammenarbeit_---GIZ---GmbH) for the lead author's time. Technical support and oversight, as well as data access, were kindly provided by the Central Bank of Costa Rica and ECLAC who assigned time from the remaining authors to this task. We are particularly grateful for the Costa Rican Council of Environmental and Economic Accounts representative Cynthia Córdoba's political, institutional, and administrative arrangements to facilitate this work. We also appreciate the insightful comments offered by the anonymous peer reviewers. The views expressed here remain the authors' responsibility and do not reflect official positions of any of the institutions involved.
