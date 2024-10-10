@@ -1,32 +1,33 @@
 ---
 title: "Bioeconomy Accounting: Methods and Pilot Application to 13 Latin American Economies"
+subtitle: Working Paper first presented at the Global Bioeconomy Summit 2024
 authors:
   - name: Renato Vargas
     affiliation:
       - ref: chw
-    email: renovargas@gmail.com
+    # email: renovargas@gmail.com
     roles: writing
     corresponding: true
   - name: Andrés Mondaini
     affiliation: 
       - ref: eclac
-    email: andres.mondaini@cepal.org
+    # email: andres.mondaini@cepal.org
   - name: Adrián Rodríguez
-    email: adrian.rodriguez@cepal.org
+    # email: adrian.rodriguez@cepal.org
     affiliation: 
       - ref: eclac
   - name: Mónica Rodríguez
-    email: RODRIGUEZZM@bccr.fi.cr
+    # email: RODRIGUEZZM@bccr.fi.cr
     affiliation: 
       - ref: bccr
   - name: Irene Alvarado
-    email: ALVARADOQI@bccr.fi.cr
+    # email: ALVARADOQI@bccr.fi.cr
     affiliation: 
       - ref: bccr
   - name: Paul Wander
     affiliation: 
       - ref: eclac
-    email: paul.wander@cepal.org
+    # email: paul.wander@cepal.org
 
 affiliations:
   - id: chw
@@ -119,43 +120,43 @@ This section presents a comparative series of results that highlight the contrib
 
 ### Bioeconomy SUT: The case of Guatemala
 
-In the Supply Table (@tbl-gtm19-sup), the most important categories correspond to the output (OP) or the production of goods and services, which are divided into bioeconomy, extended bioeconomy, and non-bioeconomy. For presentation purposes, all 152 products and services from the Guatemalan economy, as published in the ECLAC repository [@eclac2021], are aggregated into these three categories. In the case of the use table (@tbl-gtm19-use), the same three bioeconomic aggregations are displayed, but this time they represent the intermediate consumption and final consumption of the same 152 products (row data). In other words, purchases of inputs by activities for production (intermediate consumption); purchases of households, nonprofit institutions, and the government as consumers; gross capital formation (i.e. the purchase of durable goods, valuable objects, and changes in inventories); and exports.
+In the Supply Table (@tbl-gtm18-sup), the most important categories correspond to the output (OP) or the production of goods and services, which are divided into bioeconomy, extended bioeconomy, and non-bioeconomy. For presentation purposes, all 152 products and services from the Guatemalan economy, as published in the ECLAC repository [@eclac2021], are aggregated into these three categories. In the case of the use table (@tbl-gtm18-use), the same three bioeconomic aggregations are displayed, but this time they represent the intermediate consumption and final consumption of the same 152 products (row data). In other words, purchases of inputs by activities for production (intermediate consumption); purchases of households, nonprofit institutions, and the government as consumers; gross capital formation (i.e. the purchase of durable goods, valuable objects, and changes in inventories); and exports.
 
-::: {#tbl-gtm19-sup}
+::: {#tbl-gtm18-sup}
 ![](images/clipboard-3904732418.png)
 
 Guatemala: Condensed Bioeconomy Supply Table\
-(Million GTQ at current prices, 2019)
+(Million GTQ at current prices, 2018)
 :::
 
 ::: {style="font-size: 75%;"}
 Transactions: OP. Output; IM. Imports; C/F. CIF/FOB Adjustment; T/S. Taxes less subsidies; MR. Trade and transport margins. Groups of Activities: A. Agriculture; B. Mining; C. Manufacturing; D-E Other Utilities & Water; F. Construction; G. Wholesale and Retail Trade; H-S. Other services.
 :::
 
-The flow of information from left to right in @tbl-gtm19-sup shows output (OP) at producer prices (i.e., the price at the farm gate or factory), to which we then add imports free of insurance and freight costs to form the supply of goods and services in the economy at basic prices. The transactions in the following columns add detail on insurance and freight costs, taxes less subsidies on products, and distribution margins (i.e., transportation and marketing costs), which are added to bring these products to consumers. The last column shows, row by row, the availability of each good and service in the economy at market prices in the case of supply (@tbl-gtm19-sup), which is equal to total use (in @tbl-gtm19-use) row by row.
+The flow of Bioeconomic information from left to right in @tbl-gtm18-sup shows output (OP) at producer prices (i.e., the price at the farm gate or factory), to which we then add imports free of insurance and freight costs to form the supply of goods and services in the economy at basic prices. The transactions in the following columns add detail on insurance and freight costs, taxes less subsidies on products, and distribution margins (i.e., transportation and marketing costs), which are added to bring these products to consumers. The last column shows, row by row, the availability of each good and service in the economy at market prices in the case of supply (@tbl-gtm18-sup), which is equal to total use (in @tbl-gtm18-use) row by row.
 
-@tbl-gtm19-sup shows an output of 324.2 billion QTQ in bioeconomic products, which corresponds to 28.7% of the total supply at purchaser's prices, amounting to 1.128 trillion GTQ. Products from the extended bioeconomy accounted for 152.3 billion GTQ, or 13.5% of the total supply, while non-bioeconomic products represented 651.7 billion GTQ, or 57.8% of total supply. Since SNA operates on the economic principle that supply equals demand, @tbl-gtm19-use shows that the consumption of each category of products matches those of the Use Table. Taxes (less subsidies) on bioeconomic products amounted to 9.4 billion GTQ and represented 26.1% of total taxes on production (36.1 billion GTQ); extended bioeconomic products accounted for 17.0%, and non-bioeconomic products made up 56.9%.
+@tbl-gtm18-sup shows an output of GTQ306.8 billion in bioeconomic products, which corresponds to 28.9% of the total supply at purchaser's prices (1.1 trillion GTQ). Products from the extended bioeconomy accounted for 145.8 billion GTQ, or 13.7% of the total supply, while non-bioeconomic products represented 610.5 billion GTQ, or 57.4% of total supply. Since SNA operates on the economic principle that supply equals demand, @tbl-gtm18-use shows that the consumption of each category of products matches those of the Use Table. Taxes (less subsidies) on bioeconomic products amounted to 8.9 billion GTQ and represented 26.5% of total taxes on production (33.5 billion GTQ); extended bioeconomic products accounted for 17.4%, and non-bioeconomic products made up 56.1%.
 
-In absolute terms, non-bioeconomic products represent the largest source of tax revenue, but it is interesting to estimate the implicit tax rate for each type of product. This is done by dividing the taxes collected by the output value of each type of product. This reveals that the implicit tax rate for bioeconomic products is 4.8% of production (9.4 billion / (197.9 billion + 7.8 billion + 0.9 billion), 6.8% for extended bioeconomic products, and 3.2% for non-bioeconomic products. It is important to clarify that this estimated tax rate is not the result of an explicit fiscal policy decision targeting bioeconomic products, but rather the aggregate impact of all the different fiscal policy decisions that have been made in the country over time. Notably, the implicit tax rate is higher for bioeconomic and extended bioeconomic products compared to non-bioeconomic products.
+In absolute terms, non-bioeconomic products represent the largest source of tax revenue, but it is interesting to estimate the implicit tax rate for each type of product. This is done by dividing the taxes collected by the output value of each type of product. This reveals that the implicit tax rate for bioeconomic products is 4.8% of output (8.8 billion / 187.8 billion), 6.8% for extended bioeconomic products, and 3.1% for non-bioeconomic products. It is important to clarify that this estimated tax rate is not the result of an explicit fiscal policy decision targeting bioeconomic products, but rather the aggregate impact of all the different fiscal policy decisions that have been made in the country over time. Notably, the implicit tax rate is higher for bioeconomic and extended bioeconomic products compared to non-bioeconomic products.
 
-@tbl-gtm19-use shows a condensed version of the Bioeconomy Use Table, describing all possible destinations---row by row---for the total availability of products shown in @tbl-gtm19-sup. The first seven columns show Intermediate Consumption, with the eighth column showing the subtotal for that transaction. Intermediate Consumption describes the purchase of inputs for production by economic activities. In 2019, this transaction amounted to a total of 369.7 billion GTQ, of which 24.0% corresponded to the purchase of bioeconomic products, 13.5% to the purchase of extended bioeconomic products, and 62.6% to the purchase of non-bioeconomic products. Exports amounted to 95.3 billion GTQ (net of CIF/FOB adjustments), with 46.4% corresponding to bioeconomic products, 16.7% to extended bioeconomic products, and 36.9% to non-bioeconomic products. This is understandable for a country where a significant portion of exports consists of agricultural products. Finally, out of 578.3 billion GTQ corresponding to final consumption (net of insurance and freight costs), 32.8% accounted for bioeconomic products, 15.0% for extended bioeconomic products, and 52.2% for non-bioeconomic products.
+@tbl-gtm18-use shows a condensed version of the Bioeconomy Use Table, describing all possible destinations---row by row---for the total availability of products shown in @tbl-gtm18-sup. The first seven columns show Intermediate Consumption, with the eighth column showing the subtotal for that transaction. Intermediate Consumption describes the purchase of inputs for production by economic activities. In 2018, this transaction amounted to a total of 353.6 billion GTQ, of which 24.0% corresponded to the purchase of bioeconomic products, 13.6% to the purchase of extended bioeconomic products, and 62.3% to the purchase of non-bioeconomic products. Exports amounted to 100.1 billion GTQ (net of CIF/FOB adjustments), with 41.5% corresponding to bioeconomic products, 15.4% to extended bioeconomic products, and 33.89% to non-bioeconomic products. This is understandable for a country where a significant portion of exports consists of agricultural products. Finally, out of 533.4 billion GTQ corresponding to final consumption, 33.4% accounted for bioeconomic products, 15.3% for extended bioeconomic products, and 53.0% for non-bioeconomic products.
 
-::: {#tbl-gtm19-use}
+::: {#tbl-gtm18-use}
 ![](images/clipboard-4242498611.png)
 
 Guatemala: Condensed Bioeconomy Use Table\
-(Million GTQ at current prices, 2019)
+(Million GTQ at current prices, 2018)
 :::
 
 ::: {style="font-size: 75%;"}
 Transactions: IC. Intermediate Consumption; EX. Exports; FC. Final Consumption; CF. Capital Formation. Groups of Activities: A. Agriculture; B. Mining; C. Manufacturing; D-E Other Utilities & Water; F. Construction; G. Wholesale and Retail Trade; H-S. Other services.
 :::
 
-The remainder that results from subtracting intermediate consumption at purchaser's prices from production at producer's prices (which is technically known as gross output) is equal to gross Value Added (see @tbl-gtm19-use). This is calculated for each economic activity (or column). Gross Value Added is similar to the profit that results from subtracting the cost of inputs (excluding labor) from total sales in a company, but at the level of the entire economy. The sum of the value added by all economic activities, plus total taxes on products, minus subsidies on those products, results in the Gross Domestic Product (GDP). In this case, 926.4 billion – 369.7 billion + 36.1 billion quetzales results a GDP of 592.8 billion GTQ for 2019.
+The remainder that results from subtracting intermediate consumption at purchaser's prices from production at producer's prices (which is technically known as gross output) is equal to gross Value Added (see @tbl-gtm18-use). This is calculated for each economic activity (or column). Gross Value Added is similar to the profit that results from subtracting the cost of inputs (excluding labor) from total sales in a company, but at the level of the entire economy. The sum of the value added by all economic activities, plus total taxes on products, minus subsidies on those products, results in the Gross Domestic Product (GDP). In this case, 926.4 billion – 369.7 billion + 36.1 billion quetzales results a GDP of 592.8 billion GTQ for 2019.
 
 If we were to abide by the *a priori* selection of Bioeconomic sectors, these would account for 17.0% of gross Value Added---i.e. the Bioeconomy's GDP---, 4.6% for extended bioeconomic activities, and 78.4% for non-bioeconomic activities. However, we have explained the limitations that come with that approach. That's why we suggest that biological resources, as the natural resource basis of production across *all* economic activities (not just some), can be seen as a spectrum. Each activity can make greater or lesser use of biological inputs. In other words, each activity may have a higher or lower share of bioeconomic products in its intermediate consumption structure and can also produce a mix of products with a higher or lower proportion of bioeconomic content. For this reason, estimating a bioeconomic contribution of 17.0% of Value Added, or 94.8 billion GTQ, overlooks in some way the 997.5 million GTQ in bioeconomic products and the 42.2 billion GTQ in extended bioeconomic products produced by non-bioeconomic activities. It would be more accurate to say that the value added across all sectors was based on 24.0% bioeconomic inputs (as explained earlier in the intermediate consumption analysis), which is a calculation that can be done individually for each sector (for example, agriculture, manufacturing, and trade), without relying on the three bioeconomic classification categories in the columns and instead focusing on the bioeconomic content of products in the rows. The conclusion is that all economic activities can be more or less bioeconomic, whether from the perspective of production or intermediate consumption.
 
-@tbl-gtm19-use also shows exports, which total 95.3 billion GTQ (excluding the CIF/FOB adjustments row), with 46.4% corresponding to bioeconomic products, 16.7% to extended bioeconomic products, and 36.9% to non-bioeconomic products. This is reasonable for a country where a significant portion of exports consists of agricultural products. Finally, of the 578.3 billion quetzales corresponding to final consumption (excluding CIF/FOB adjustments), 32.8% corresponds to bioeconomic products, 15.0% to extended bioeconomic products, and 52.2% to non-bioeconomic products.
+@tbl-gtm18-use also shows exports, which total 95.3 billion GTQ (excluding the CIF/FOB adjustments row), with 46.4% corresponding to bioeconomic products, 16.7% to extended bioeconomic products, and 36.9% to non-bioeconomic products. This is reasonable for a country where a significant portion of exports consists of agricultural products. Finally, of the 578.3 billion quetzales corresponding to final consumption (excluding CIF/FOB adjustments), 32.8% corresponds to bioeconomic products, 15.0% to extended bioeconomic products, and 52.2% to non-bioeconomic products.
 
 ### Disaggregation by Economic Activity
 
@@ -224,7 +225,7 @@ Bioeconomy, Extended Bioeconomy, and Non-Bioeconomy inputs for selected economic
 
 ### Comparative analysis for 13 economies of Latin America and The Caribbean
 
-Following the same analytical approach used in @tbl-gtm19-sup for the case of Guatemala, the panels in @fig-latam-output provide a comparative analysis of the percentage contribution of the Bioeconomy to several SNA transactions for Argentina, Brazil, Chile, Colombia, Costa Rica, El Salvador, the Dominican Republic, Ecuador, Guatemala, Honduras, Nicaragua, Panama, and Peru. While the analysis for Guatemala was developed for the year 2019, the focus of this section is the year 2018, since it is the most recent year available for the majority of the countries, with the exception of the Dominican Republic and Panama, where 2016 and 2017 data, respectively, were used.
+Following the same analytical approach used in @tbl-gtm18-sup for the case of Guatemala, the panels in @fig-latam-output provide a comparative analysis of the percentage contribution of the Bioeconomy to several SNA transactions for Argentina, Brazil, Chile, Colombia, Costa Rica, El Salvador, the Dominican Republic, Ecuador, Guatemala, Honduras, Nicaragua, Panama, and Peru. While the analysis for Guatemala was developed for the year 2019, the focus of this section is the year 2018, since it is the most recent year available for the majority of the countries, with the exception of the Dominican Republic and Panama, where 2016 and 2017 data, respectively, were used.
 
 @fig-latam-imports shows that, on average, 17.5% of gross output in the analyzed countries corresponds to bioeconomic products, 10.6% to extended bioeconomic products, and 71.9% to non-bioeconomic products. Nicaragua has the highest proportion of bioeconomic products, with about a third of its output (29.1%) falling into this category. This highlights a broader agricultural base in their economy. Panama, on the other hand, ranks the lowest, with 11.5% of bioeconomic products in its national production structure. However, its proportion of extended bioeconomic products reaches 9.9%, and when combined, these two categories account for one-fifth of its production based on biological resources.
 
