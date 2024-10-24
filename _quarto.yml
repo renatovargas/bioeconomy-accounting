@@ -10,7 +10,7 @@ format:
   html:
     comments:
       hypothesis: true
-  docx: default
+  # docx: default
   pdf: default
   
   # (other formats)
