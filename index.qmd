@@ -1,6 +1,6 @@
 ---
 title: "Bioeconomy Accounting: Methods and Pilot Application to 13 Latin American Economies"
-subtitle: Working Paper first presented at the Global Bioeconomy Summit 2024
+subtitle: Working Paper presented at the Global Bioeconomy Summit 2024
 authors:
   - name: Renato Vargas
     affiliation:
@@ -13,7 +13,7 @@ authors:
       - ref: eclac
     # email: andres.mondaini@cepal.org
   - name: Adrián Rodríguez
-    # email: adrian.rodriguez@cepal.org
+    email: adrian.rodriguez@cepal.org
     affiliation: 
       - ref: eclac
   - name: Mónica Rodríguez
@@ -31,7 +31,7 @@ authors:
 
 affiliations:
   - id: chw
-    name: CHW, S.A.
+    name: CHW / ECLAC Consultant
   - id: eclac
     name: Economic Commission for 
           Latin America and The Caribbean
@@ -63,8 +63,6 @@ editor_options:
   markdown:
     extensions: -smart
 ---
-
-
 
 ## Introduction
 
@@ -130,7 +128,7 @@ Guatemala: Condensed Bioeconomy Supply Table\
 :::
 
 ::: {style="font-size: 75%;"}
-Transactions: OP. Output; IM. Imports; C/F. CIF/FOB Adjustment; T/S. Taxes less subsidies; MR. Trade and transport margins. Groups of Activities: A. Agriculture; B. Mining; C. Manufacturing; D-E Other Utilities & Water; F. Construction; G. Wholesale and Retail Trade; H-S. Other services. 
+Transactions: OP. Output; IM. Imports; C/F. CIF/FOB Adjustment; T/S. Taxes less subsidies; MR. Trade and transport margins. Groups of Activities: A. Agriculture; B. Mining; C. Manufacturing; D-E Other Utilities & Water; F. Construction; G. Wholesale and Retail Trade; H-S. Other services.
 :::
 
 The flow of Bioeconomic information from left to right in @tbl-gtm18-sup shows output (OP) at producer prices (i.e., the price at the farm gate or factory), to which we then add imports free of insurance and freight costs to form the supply of goods and services in the economy at basic prices. The transactions in the following columns add detail on insurance and freight costs, taxes less subsidies on products, and distribution margins (i.e., transportation and marketing costs), which are added to bring these products to consumers. The last column shows, row by row, the availability of each good and service in the economy at market prices in the case of supply (@tbl-gtm18-sup), which is equal to total use (in @tbl-gtm18-use) row by row.
@@ -164,7 +162,7 @@ For a more detailed view of the Bioeconomy, we turn our attention to the example
 
 ::: {#tbl-cr18-pharma}
 | **Products** | **Value (CRC)** | **Percent** |
-|-------------------------------------|-----------------:|-----------------:|
+|----|---:|---:|
 | **Bioeconomy (subtotal)** | **30,307.1** | **34.61%** |
 | Pharmaceutical and medicinal products | 18,845.6 | 21.52% |
 | Other food products n.e.c. | 4,011.2 | 4.58% |
@@ -295,7 +293,6 @@ A significant share of fiscal revenue from product taxes comes from bioeconomic 
 
 One limitation of the National Accounts data for studying the bioeconomy is related to the difficulty in quantifying bioeconomic gross capital formation through economic surveys and business financial statements. A significant portion of innovation in the Bioeconomy is related to intellectual property, and companies in the region still face challenges in tracking their intellectual assets and accurately accounting for them. Another challenge in quantifying bioeconomic Gross Capital Formation arises from the fact that some infrastructure projects may not be easily identified as bioeconomic, such as the construction of bioprocessing plants to reuse biological waste. These would typically appear under construction services and would be excluded by the methodology during the classification process. This indicates that there is still work to be done in developing national accounting standards to address these limitations.
 
-
 ## Acknowledgments {.appendix}
 
-The methodology described here was originally developed for Costa Rica through a collaboration between the Central Bank of Costa Rica (BCCR) and the United Nations Economic Commission for Latin America and the Caribbean (ECLAC), at the request of Costa Rica’s National Council of Environmental Accounts. Financing was provided by the German Cooperation (_Deutsche Gesellschaft für Internationale Zusammenarbeit_---GIZ---GmbH) for the lead author's time. Technical support and oversight, as well as data access, were kindly provided by the Central Bank of Costa Rica and ECLAC who assigned time from the co-authors to this task. We are particularly grateful for the Costa Rican Council of Environmental and Economic Accounts representative Cynthia Córdoba's political, institutional, and administrative arrangements to facilitate this work. We also appreciate the insightful comments offered by the anonymous peer reviewers. The views expressed here remain the authors' responsibility and do not reflect official positions of any of the institutions involved.
+The methodology described here was originally developed for Costa Rica through a collaboration between the Central Bank of Costa Rica (BCCR) and the United Nations Economic Commission for Latin America and the Caribbean (ECLAC), at the request of Costa Rica’s National Council of Environmental Accounts. Financing was provided by the German Cooperation (*Deutsche Gesellschaft für Internationale Zusammenarbeit*---GIZ---GmbH) for the lead author's time. Technical support and oversight, as well as data access, were kindly provided by the Central Bank of Costa Rica and ECLAC who assigned time from the co-authors to this task. We are particularly grateful for the Costa Rican Council of Environmental and Economic Accounts representative Cynthia Córdoba's political, institutional, and administrative arrangements to facilitate this work. We also appreciate the insightful comments offered by the anonymous peer reviewers. The views expressed in this document are the sole responsibility of the authors and do not necessarily reflect the views of their organizations.
